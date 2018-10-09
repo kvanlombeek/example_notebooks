@@ -4,9 +4,11 @@ channels:
  - defaults
 dependencies:
  - python=3.6
+ - graphviz
  - jupyter
  - numpy
  - pandas
+ - pydotplus
  - scikit-learn
  - seaborn
  - tqdm
