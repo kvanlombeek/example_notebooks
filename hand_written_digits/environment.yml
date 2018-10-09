@@ -1,0 +1,12 @@
+name: tutorial
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.6
+ - jupyter
+ - numpy
+ - pandas
+ - scikit-learn
+ - seaborn
+ - tqdm
