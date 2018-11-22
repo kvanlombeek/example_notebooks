@@ -1,0 +1,50 @@
+{
+    "1": {
+        "value": "0-10",
+        "legend": "Uitstekend"
+    },
+    "2": {
+        "value": "10-15",
+        "legend": "Zeer goed"
+    },
+    "3": {
+        "value": "15-20",
+        "legend": "Goed"
+    },
+    "4": {
+        "value": "20-25",
+        "legend": "Vrij goed"
+    },
+    "5": {
+        "value": "25-30",
+        "legend": "Gewoon"
+    },
+    "6": {
+        "value": "30-35",
+        "legend": "Matig"
+    },
+    "7": {
+        "value": "35-40",
+        "legend": "Ondermaats"
+    },
+    "8": {
+        "value": "40-45",
+        "legend": "Slecht"
+    },
+    "9": {
+        "value": "45-50",
+        "legend": "Zeer slecht"
+    },
+    "10": {
+        "value": "50-55",
+        "legend": "Uiterst slecht"
+    },
+    "11": {
+        "value": "55-60",
+        "legend": "Uiterst slecht"
+    },
+    "12": {
+        "value": "60+",
+        "legend": "Uiterst slecht"
+    }
+}
